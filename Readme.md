@@ -1,4 +1,4 @@
-# Microsoft-Windows-Theme
+# Microsoft Windows Theme
 
 ### Sample Desktop
 * Windows XP
